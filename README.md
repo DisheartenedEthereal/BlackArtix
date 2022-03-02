@@ -49,7 +49,7 @@ $ sudo pacman -Syu
 use the package list provided in the repo, if you want to modify it feel free to modify.
 
 ```sh 
-$ wget LINK
+$ wget https://raw.githubusercontent.com/DisheartenedEthereal/BlackArtix/main/packages.txt
 
 $ sudo pacman -S - < pkglist.txt --needed --overwrite='*'
 ```
