@@ -47,7 +47,6 @@ ike-scan
 inetsim
 iodine
 john
-kismet
 laudanum
 lbd
 legion
@@ -116,7 +115,6 @@ sslscan
 sslsplit
 sslyze
 statsprocessor
-stunnel
 subfinder
 swaks
 tcpdump
@@ -124,7 +122,6 @@ tcpick
 tcpreplay
 thc-ipv6
 thc-pptp-bruter
-torctl
 theharvester
 udptunnel
 unix-privesc-check

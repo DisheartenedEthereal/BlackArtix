@@ -51,5 +51,9 @@ use the package list provided in the repo, if you want to modify it feel free to
 ```sh 
 $ wget https://raw.githubusercontent.com/DisheartenedEthereal/BlackArtix/main/packages.txt
 
-$ sudo pacman -S - < pkglist.txt --needed --overwrite='*'
+$ sudo pacman -S - < packages.txt --needed --overwrite='*'
 ```
+
+
+### Notes:
+- Use the culprit.sh script to check if any package in that list depends on systemd, i removed stunnel, torctl and kismet from the list for said reason, i will be making openrc packages one day.

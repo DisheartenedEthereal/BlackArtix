@@ -1,0 +1,9 @@
+--- kismet depends on systemd, here's the full list:
+libpcap pcre bluez-libs libcap protobuf-c libprotobuf-c.so sqlite libnm gcc-libs libusb libusb-1.0.so libnl glibc zlib libelf lm_sensors python python-setuptools python-protobuf python-pyserial python-numpy libwebsockets libcap-ng libpcap.so libprotobuf.so libnm.so libwebsockets.so libsensors.so=5-64 libpcap pcre bluez-libs libcap protobuf-c libprotobuf-c.so sqlite libnm gcc-libs libusb libusb-1.0.so libnl glibc zlib libelf lm_sensors systemd python python-setuptools python-protobuf python-pyserial python-numpy python-websockets libwebsockets libcap-ng libpcap.so libprotobuf.so libnm.so libwebsockets.so libsensors.so=5-64 libpcap pcre bluez-libs libcap protobuf-c libprotobuf-c.so sqlite libnm gcc-libs libusb libusb-1.0.so libnl glibc zlib libelf lm_sensors systemd python python-setuptools python-protobuf python-pyserial python-numpy python-websockets libwebsockets libcap-ng libpcap.so libprotobuf.so libnm.so libwebsockets.so libsensors.so=5-64
+-------------
+--- stunnel depends on systemd, here's the full list:
+openssl perl libnsl openssl perl libnsl systemd-libs openssl perl libnsl systemd-libs
+-------------
+--- torctl depends on systemd, here's the full list:
+tor systemd curl iptables secure-delete iproute macchanger
+-------------
