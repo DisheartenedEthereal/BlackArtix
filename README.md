@@ -18,7 +18,7 @@ Heads up:
   </ol>
   
 ### Warnings
-- This is made for personal use and is not tested on anything like an Arm machine, although i don't see why it should'nt work.
+- This is made for personal use and is not tested on anything like an Arm machine, although i don't see why it shouldn't work.
 - This project is incomplete, but is completely usable.
 - The install is pretty light, it finishes with about a 2.2Gb download and will install ~1100 packages (including artix's packages), 140 of which are security tools.
 - The default scripts installs no bloatware, only security tools. (No DEs, File managers, ETC ETC)
